@@ -1,1 +1,2 @@
 Testando atualização do clone
+Testar um trem sobre o git clean (clean os logs, por exemplo)
